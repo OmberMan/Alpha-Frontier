@@ -174,8 +174,8 @@
 		"uniqueName": "Ingenuity from Isolation",
 		"uniques": [
 			"Receive a tech boost when scientific buildings/wonders are built in capital",
-			"Science gained from research agreements [+100]%",
-			"[+100]% unhappiness from the number of cities"
+			"Science gained from research agreements [+200]%",
+			"[+150]% unhappiness from the number of cities"
 		],
 		"cities": [
 			"Cydonia Central",
@@ -244,7 +244,7 @@
 		"innerColor": [191, 93, 2],
 		"favoredReligion": "Mormonism",
 		"uniqueName": "Belta Penal Code",
-		"uniques": ["[-20]% construction time for [All] improvements","No movement cost to pillage <for [Infantry] units>"],
+		"uniques": ["[-40]% construction time for [All] improvements","No movement cost to pillage <for [Infantry] units>"],
 		"cities": [
 			"Canterbury",
 			"Rocinante",
@@ -308,7 +308,7 @@
 		"innerColor": [255, 218, 31],
 		"favoredReligion": "Cosmic Clergy",
 		"uniqueName": "Rock Solid",
-		"uniques": ["[+20]% Strength <for [Military] units> <in [Hill] tiles>","[+1 Gold, +1 Production] from [Mountain] tiles [in all cities]","[+50]% City Strength from defensive buildings"],
+		"uniques": ["[+40]% Strength <for [Military] units> <in [Hill] tiles>","[+2 Gold, +3 Production] from [Mountain] tiles [in all cities]","[+50]% City Strength from defensive buildings"],
 		"cities": [
 			"Koganusan",
 			"Corroded Grotto",
@@ -373,8 +373,8 @@
 		"favoredReligion": "Neo-Monolith",
 		"uniqueName": "Building Better Worlds",
 		"uniques": [
-			"Retain [20]% of the happiness from a luxury after the last copy has been traded away",
-			"[+1] Sight <for [All] units>",
+			"Retain [40]% of the happiness from a luxury after the last copy has been traded away",
+			"[+2] Sight <for [All] units>",
 			"Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns",
 			"Comment [Replaces Megacorp HQs with W-Y Subsidiaries, which are slightly weaker but are not limited to one subsidiary per faction - as long as the monopoly requirement is fulfilled]"
 		],
@@ -444,7 +444,7 @@
 		"innerColor": [39, 175, 59],
 		"favoredReligion": "Astral Pantheon",
 		"uniqueName": "Somatic Element",
-		"uniques": ["[-50]% Unhappiness from [Population] [in all cities]","[10] HP when healing <for [Wounded] units>"],
+		"uniques": ["[-75]% Unhappiness from [Population] [in all cities]","[20] HP when healing <for [Wounded] units>"],
 		"cities": [
 			"Magnasanti",
 			"Mandira",
@@ -507,7 +507,7 @@
 		"innerColor": [22, 116, 204],
 		"favoredReligion": "Mekhaneites",
 		"uniqueName": "The Future is Chrome",
-		"uniques": ["[100]% [Titanium] resource production","[100]% [Ulframite] resource production","[+1 Science] from all [Science] buildings"],
+		"uniques": ["[200]% [Titanium] resource production","[200]% [Ulframite] resource production","[+2 Science] from all [Science] buildings"],
 		"cities": [
 			"Terminal Aperture",
 			"District 01",
@@ -572,7 +572,7 @@
 		"innerColor": [126, 192, 253],
 		"favoredReligion": "Virtualism",
 		"uniqueName": "We are Soldiers, Stand or Die",
-		"uniques": ["No damage penalty for wounded units","Great General provides double combat bonus","[+50]% maintenance costs","[+20]% spy effectiveness [in all cities]"],
+		"uniques": ["No damage penalty for wounded units","Great General provides double combat bonus","[+75]% maintenance costs","[+50]% spy effectiveness [in all cities]"],
 		"cities": [
 			"Niihama New Port City",
 			"Aramaki-Cho",
@@ -640,12 +640,12 @@
 		"favoredReligion": "Voidist",
 		"uniqueName": "The Hounds of War",
 		"uniques": [
-			"Earn [50]% of killed [Military] unit's [Strength] as [Culture]",
+			"Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
 			//"[+30]% Strength <vs [City-States]>"
-			"[+20]% Strength <for [Military] units> <for [10] turns> <upon declaring war on [City-States] Civilizations>",
-			"[+30]% Strength <for [Military] units> <for [10] turns> <upon declaring war on [Major] Civilizations>",
-			"[+20]% Strength for cities <for [10] turns> <upon being declared war on by [City-States] Civilizations>",
-			"[+30]% Strength for cities <for [10] turns> <upon being declared war on by [Major] Civilizations>"
+			"[+40]% Strength <for [Military] units> <for [10] turns> <upon declaring war on [City-States] Civilizations>",
+			"[+60]% Strength <for [Military] units> <for [10] turns> <upon declaring war on [Major] Civilizations>",
+			"[+20]% Strength for cities <for [20] turns> <upon being declared war on by [City-States] Civilizations>",
+			"[+30]% Strength for cities <for [20] turns> <upon being declared war on by [Major] Civilizations>"
 		],
 		"cities": [
 			"Ragnarok's Fist",
@@ -710,7 +710,7 @@
 		"innerColor": [255, 179, 252],
 		"favoredReligion": "Neo-Monolith",
 		"uniqueName": "All the World's a Stage",
-		"uniques": ["[-50]% City-State Influence degradation","[+50]% Golden Age length"],
+		"uniques": ["[-75]% City-State Influence degradation","[+100]% Golden Age length"],
 		"cities": [
 			"New Lutetia",
 			"Cousteau City",
@@ -777,7 +777,7 @@
 		"innerColor": [255, 247, 220],
 		"favoredReligion": "Nomadist",
 		"uniqueName": "Eternal Caravan",
-		"uniques": ["City-State territory always counts as friendly territory","[+1] Movement <for [Land] units>"],
+		"uniques": ["City-State territory always counts as friendly territory","[+2] Movement <for [Land] units>"],
 		"cities": [
 			"Netmezra",
 			"Tenere",
@@ -841,7 +841,7 @@
 		"innerColor": [128, 36, 156],
 		"favoredReligion": "Xenocult",
 		"uniqueName": "Xeno Brotherhood",
-		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>","When defeating a [Xeno] unit, earn [25] Gold and recruit it <with [50]% chance>","[+50]% Strength <vs [Xeno] units>","[+10]% Strength <for [Xeno] units>","All newly-trained [Xeno] units [in all cities] receive the [Tame Xeno Unit] promotion"],
+		"uniques": ["When conquering an encampment, earn [100] Gold and recruit a Barbarian unit <with [80]% chance>","When defeating a [Xeno] unit, earn [50] Gold and recruit it <with [75]% chance>","[+100]% Strength <vs [Xeno] units>","[+20]% Strength <for [Xeno] units>","All newly-trained [Xeno] units [in all cities] receive the [Tame Xeno Unit] promotion"],
 		"cities": [
 			"Xenopolis",
 			"Helixien",
@@ -905,7 +905,7 @@
 		"innerColor": [70, 90, 50],
 		"favoredReligion": "Gene Purists",
 		"uniqueName": "Humanity's Fist",
-		"uniques": ["[50]% Strength <vs cities>","[-20]% maintenance on road & railroads","All newly-trained [{Military} {Land}] units [in all cities] receive the [Humanity's March] promotion"],
+		"uniques": ["[+100]% Strength <vs cities>","[-40]% maintenance on road & railroads","All newly-trained [{Military} {Land}] units [in all cities] receive the [Humanity's March] promotion"],
 		"cities": [
 			"Nuova Roma",
 			"Secundus",
@@ -969,7 +969,7 @@
 		"innerColor": [53, 99, 0],
 		"favoredReligion": "Solar Mass",
 		"uniqueName": "Protection Intitative",
-		"uniques": ["[+50]% City Strength from defensive buildings","[+10]% Strength <in [Friendly Land] tiles>","[+20]% Strength <within [1] tiles of a [Fort]>","Gain [100] [Production] <in cities with at least [3] [Population]> <upon declaring a defensive pact>"],
+		"uniques": ["[+100]% City Strength from defensive buildings","[+20]% Strength <in [Friendly Land] tiles>","[+40]% Strength <within [1] tiles of a [Fort]>","Gain [200] [Production] <in cities with at least [3] [Population]> <upon declaring a defensive pact>"],
 		"cities": [
 			"Xinxing Duhui",
 			"He Cheng",
@@ -1036,9 +1036,9 @@
 		"uniques": [
 			"Seaborne Faction",
 			"Enables embarkation for land units",
-			"[+100]% Strength <when defending> <when [Embarked]> <for [All] units>",
-			"[+1] Movement <in [Water] tiles>",
-			"[10]% to Flank Attack bonuses <for [Hovercraft] units>",
+			"[+200]% Strength <when defending> <when [Embarked]> <for [All] units>",
+			"[+2] Movement <in [Water] tiles>",
+			"[25]% to Flank Attack bonuses <for [Hovercraft] units>",
 			"[Colonizer] units gain the [Amphibious] promotion"
 		],
 		"cities": [
@@ -1082,7 +1082,7 @@
 		"leaderName": "Harvey Hawkes",
 		"adjective": ["Blue Streak"],
 		"startBias": ["Plains"],
-		"personality": "Scientific Megacorp",
+		"personality": "Aerospace Megacorp",
 		"preferredVictoryType":"Scientific",
 
 		"startIntroPart1": "Howdy, Harvey Hawkes, CEO of Blue Streak Aerodynamics! Coming from a long line of aviators, your grandfather created Blue Streak Aerodynamics before the collapse. Your father then expanded the company from an airplane design bureau into the commercial flight business, and you furthered it by investing into the aerospace sector. You take their legacy in stride, keeping your company afloat even in the face of the collapse, and the subsequent climate catastrophe. But your engineers haven't been idle - they've successfully created and marketed the designs for a spaceship, a colony ship that could take people to new worlds. So it is no surprise when you took one of your own colony ships into the furthest skies, along with the engineers and families wealthy enough to afford a ticket.",
@@ -1104,7 +1104,7 @@
 		"innerColor": [0, 19, 186],
 		"favoredReligion": "Cosmic Clergy",
 		"uniqueName": "Wild Blue Yonder",
-		"uniques": ["[+1] Range <for [Air] units>","Gain [35] Influence with a [Military] gift to a City-State","Military Units gifted from City-States start with [15] XP"],
+		"uniques": ["[+2] Range <for [Air] units>","Gain [60] Influence with a [Military] gift to a City-State","Military Units gifted from City-States start with [30] XP"],
 		"cities": [
 			"Eagle City",
 			"Amarillo 2",
@@ -1168,7 +1168,7 @@
 		"innerColor": [99, 99, 99],
 		"favoredReligion": "Mekhaneites",
 		"uniqueName": "Proven Steel",
-		"uniques": ["Earn [20]% of killed [Military] unit's [Strength] as [Science]","[+50]% Production when constructing [Armored] units [in all cities]","[+50]% Production when constructing [Mech] units [in all cities]"],
+		"uniques": ["Earn [40]% of killed [Military] unit's [Strength] as [Science]","[+100]% Production when constructing [Armored] units [in all cities]","[+100]% Production when constructing [Mech] units [in all cities]"],
 		"cities": [
 			"Einefabrik",
 			"Panzerstadt",
