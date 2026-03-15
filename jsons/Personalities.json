@@ -293,6 +293,28 @@
 			{"text": "This faction tends to value cybernetically-enhanced military strength, and thus usually have a big industrial and scientific base."}
 		]
 	},
+{
+		"name": "Aerospace Megacorp",
+		"preferredVictoryType": "Diplomatic",
+		"culture": 6,
+		"faith": 3,
+		"food": 4,
+		"gold": 6,
+		"happiness": 7,
+		"production": 6,
+		"science": 7,
+		"military": 8,
+		"aggressive": 9,
+		"declareWar": 7,
+		"commerce": 7,
+		"diplomacy": 8,
+		"loyal": 6,
+		"expansion": 6,
+		"priorities": {
+			"Ingenuity": 30,
+			"Pioneer Spirit": 30,
+"Radiant Ideology": 40
+		},
 	{
 		"name": "Bullying Warmonger",
 		"preferredVictoryType": "Domination",
